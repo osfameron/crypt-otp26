@@ -189,10 +189,14 @@ sub mk_stream {
 
 =head1 AUTHOR
 
-    (C) 2006
+    (C) 2009
     osfameron@cpan.org
 
     May be distributed under the same conditions as Perl itself
+
+Repo is at L<http://github.com/osfameron/crypt-otp26/> 
+
+(Clone url: git://github.com/osfameron/crypt-otp26.git )
 
 =cut
 
