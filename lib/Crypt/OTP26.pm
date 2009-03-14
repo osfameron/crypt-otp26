@@ -31,7 +31,7 @@ package Crypt::OTP26;
 use strict; use warnings;
 use Data::Dumper;
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 use constant ORD_A => ord('a');
 
 =head1 METHODS
