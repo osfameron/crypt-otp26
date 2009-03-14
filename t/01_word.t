@@ -3,7 +3,6 @@ use strict; use warnings;
 use Data::Dumper;
 
 use Test::More tests=>38;
-use Test::Exception;
 
 BEGIN {
   use_ok( 'Crypt::OTP26' );
